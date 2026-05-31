@@ -116,8 +116,8 @@ img {
 
 .hero::after {
   background:
-    linear-gradient(90deg, rgba(6, 7, 20, 0.9), rgba(6, 7, 20, 0.62) 46%, rgba(6, 7, 20, 0.18)),
-    linear-gradient(180deg, rgba(6, 7, 20, 0.18), rgba(6, 7, 20, 0.88)),
+    linear-gradient(90deg, rgba(6, 7, 20, 0.64), rgba(6, 7, 20, 0.38) 46%, rgba(6, 7, 20, 0.08)),
+    linear-gradient(180deg, rgba(6, 7, 20, 0.06), rgba(6, 7, 20, 0.58)),
     url("assets/hero.jpg") center center / cover no-repeat;
   content: "";
   inset: 0;
@@ -434,8 +434,8 @@ h1 {
 
   .hero::after {
     background:
-      linear-gradient(180deg, rgba(6, 7, 20, 0.42), rgba(6, 7, 20, 0.92)),
-      linear-gradient(90deg, rgba(6, 7, 20, 0.66), rgba(6, 7, 20, 0.18)),
+      linear-gradient(180deg, rgba(6, 7, 20, 0.2), rgba(6, 7, 20, 0.64)),
+      linear-gradient(90deg, rgba(6, 7, 20, 0.42), rgba(6, 7, 20, 0.08)),
       url("assets/hero.jpg") center center / cover no-repeat;
   }
 
