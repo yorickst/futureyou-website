@@ -1,6 +1,6 @@
-# FutureYou Website
+# Future Yourself Website
 
-Static App Store support website for FutureYou.
+Static App Store support website for Future Yourself.
 
 ## Pages
 
