@@ -22,8 +22,9 @@ Simple options:
 
 Recommended App Store URLs after publishing:
 
-- Marketing URL: homepage
-- Privacy Policy URL: `/privacy.html`
-- Support URL: `/support.html`
+- Marketing URL: `https://futureyourself.app/index.html`
+- Privacy Policy URL: `https://futureyourself.app/privacy.html`
+- Terms URL: `https://futureyourself.app/terms.html`
+- Support URL: `https://futureyourself.app/support.html`
 
 The terms page is not usually required for a simple iOS app using Apple's standard App Store terms, but keeping `/terms.html` available is useful when the app has subscriptions, accounts, user content, or extra usage rules.
